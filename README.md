@@ -12,7 +12,7 @@
 <br />
 <br />
 
-Hi, I'm Francisco, a Full Stack Developer from Venezuela.
+Hi, I'm Francisco, a Software Web Developer from Venezuela.
   
 **Talking about Personal Stuffs:**
 - 📫 How to reach me: camqui2011@gmail.com;
